@@ -1,14 +1,10 @@
-# 👋 Hello!
+# 👋 Hello! I'm Margarida
 
-I'm Margarida, and welcome to my profile. 
-I'm currently studying Web Development, so look forward to seeing some projects showcased here in the future.
+## Welcome to my personal profile.
+I'm currently studying Web Development, and while I mainly use this account for archiving purposes, look forward to seeing some projects showcased here as well in the future.
 
 Thanks for stopping by! 
 
-Currently focusing on:
-
-![alt text](https://imgur.com/q9u8pFg.png)
-![alt text](https://imgur.com/cdkBkv6.png)
-![alt text](https://imgur.com/thELxOC.png)
+Currently focusing on frontend (HTML, CSS, JavaScript, and React).
 
 
