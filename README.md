@@ -6,6 +6,7 @@ At present, I'm focusing on frontend development.
 
 Thanks for stopping by! =)
 
+---
 
 ### Recent Badges
 See more on [Credly](https://www.credly.com/users/margarida-grilo)
