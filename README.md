@@ -7,6 +7,3 @@ Thanks for stopping by!
 
 Currently focusing on frontend (HTML, CSS, JavaScript, and React).
 
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
