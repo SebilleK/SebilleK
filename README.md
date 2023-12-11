@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Margarida
 
-## Welcome to my personal profile.
+## Welcome to my personal profile
 I'm currently studying Web Development. Although I mainly use this account for archiving purposes, I'll also showcase some projects in the future.
 At present, I'm focusing on frontend development.
 
